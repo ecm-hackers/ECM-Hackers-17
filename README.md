@@ -1,5 +1,5 @@
 # ECM-HACKERS #17
-<strong> CODEBASE SHIFTED TO : https://github.com/orgs/ecm-hackers/dashboard </strong>(GITHUB ORG) 
+<strong> CODEBASE SHIFTED TO : https://github.com/ecm-hackers/ECM-Hackers-17</strong>(GITHUB ORG) 
 <p>
   <strong>
     This is the repo for all the <em>codes</em> of discussion/solutions on the ECM HACKERS #17 Google+ community
