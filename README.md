@@ -4,5 +4,6 @@
   <strong>
     This is the repo for all the <em>codes</em> of discussion/solutions on the ECM HACKERS #17 Google+ community
   </strong>
-    </p><br>
-Created By - [Kunal Keshav Singh Sahni](https://www.linkedin.com/in/kunal-keshav-singh-sahni-515a7b152/)
+    </p> <br>
+    
+  Created By - [Kunal Keshav Singh Sahni](https://linkedin.com/in/kunal-keshav-singh-sahni-515a7b152/)
